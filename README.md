@@ -1,4 +1,4 @@
-ConvsPPIS: Identifying Protein-protein Interaction Sites by an Ensemble Convolutional Neural Network with Feauture Graph
+ConvsPPIS: Identifying Protein-protein Interaction Sites by an Ensemble Convolutional Neural Network with Feature Graph
 =======
 ## Directory
 ### -Dataset
