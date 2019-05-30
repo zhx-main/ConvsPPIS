@@ -1,6 +1,5 @@
-ConvsPPIS
+ConvsPPIS: Identifying Protein-protein Interaction Sites by an Ensemble Convolutional Neural Network with Feauture Graph
 =======
-## The Prediction of Protein-protein Interaction Sites  
 ### -Datas   
 	The protein sequence of DBv5-Sel and CAPRI-Alone and its corresponding lables  
 ### -Model  
