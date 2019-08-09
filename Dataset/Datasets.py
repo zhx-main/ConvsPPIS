@@ -1,5 +1,3 @@
-#所有数据和属性的集合
-
 from Datas.Feature.Pssm.Pssm import Pssm
 from Datas.Feature.PhyChem.PhyChem import PhyChem
 from Datas.Feature.PSAIA.PSAIA import PSAIA
@@ -78,17 +76,4 @@ class Datasets():
         data=np.concatenate([data_pssm,data_phychem],axis=-1)
         label=np.concatenate([label_pssm,label_phychem],axis=-1)
         return (data,label)
-
-
-#-------------------------------------------------------------------
-    @staticmethod
-    def getWholeProteins():
-        pass
-
-
-
-if __name__ == '__main__':
-    Datasets().getPSAIA('DBv5',4)
-
-
 
