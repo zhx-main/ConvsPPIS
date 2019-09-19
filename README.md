@@ -3,10 +3,10 @@ ConvsPPIS: Identifying Protein-protein Interaction Sites by an Ensemble Convolut
 ## Directory
 ### -Dataset
   The protein sequence of DBv5-Sel and CAPRI-Alone and the corresponding label for each residues of the protein. 
-### -Model
+### -Network
   The model architecture we used in our expriments: CNN(Convolutional Neural Network) and DNN.
-### -Train
-  The Pipeline of training process with 10-fold cross validation for PSSM, PhyChem, and PSAIA respectively.  
+### -TrainedModels
+  The trained models that including DBv5-Sel and CAPRI-Alone.  
 <br>
 ## Enviorment<br>
  * Python 3.5 <br>
