@@ -6,7 +6,7 @@ ConvsPPIS: Identifying Protein-protein Interaction Sites by an Ensemble Convolut
 ### -Network
   The model architecture we used in our expriments: CNN(Convolutional Neural Network) and DNN.
 ### -Pipeline
-  The pipeline that train/test the model from network.
+  The pipeline that train/test and ensemble the model.
 ### -TrainedModels
   The trained models that including DBv5-Sel and CAPRI-Alone.  
 <br>
